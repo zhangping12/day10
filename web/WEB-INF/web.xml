@@ -69,7 +69,7 @@
         <!-- 初始参数： 这些参数会在加载web应用的时候，封装到ServletConfig对象中 -->
         <init-param>
             <param-name>path</param-name>
-            <param-value>e:/b.txt</param-value>
+            <param-value>d:/b.txt</param-value>
         </init-param>
         <init-param>
             <param-name>BBB</param-name>
